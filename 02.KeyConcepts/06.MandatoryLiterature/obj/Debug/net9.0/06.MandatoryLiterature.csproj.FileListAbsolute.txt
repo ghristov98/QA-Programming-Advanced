@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.exe
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\bin\Debug\net9.0\06.MandatoryLiterature.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\refint\06.MandatoryLiterature.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\06.MandatoryLiterature.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\06.MandatoryLiterature\obj\Debug\net9.0\ref\06.MandatoryLiterature.dll
