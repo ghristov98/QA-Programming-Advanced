@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\bin\Debug\net9.0\03.Market.exe
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\bin\Debug\net9.0\03.Market.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\bin\Debug\net9.0\03.Market.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\bin\Debug\net9.0\03.Market.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\bin\Debug\net9.0\03.Market.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\03.Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\03.Market.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\03.Market.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\03.Market.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\03.Market.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\refint\03.Market.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\03.Market.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\03.Market.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\03.Market\obj\Debug\net9.0\ref\03.Market.dll
