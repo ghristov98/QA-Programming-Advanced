@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\bin\Debug\net9.0\01.ConvertorUSDtoEUR.exe
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\bin\Debug\net9.0\01.ConvertorUSDtoEUR.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\bin\Debug\net9.0\01.ConvertorUSDtoEUR.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\bin\Debug\net9.0\01.ConvertorUSDtoEUR.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\bin\Debug\net9.0\01.ConvertorUSDtoEUR.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\01.ConvertorUSDtoEUR.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\01.ConvertorUSDtoEUR.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\01.ConvertorUSDtoEUR.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\01.ConvertorUSDtoEUR.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\01.ConvertorUSDtoEUR.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\refint\01.ConvertorUSDtoEUR.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\01.ConvertorUSDtoEUR.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\01.ConvertorUSDtoEUR.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\01.ConvertorUSDtoEUR\obj\Debug\net9.0\ref\01.ConvertorUSDtoEUR.dll
