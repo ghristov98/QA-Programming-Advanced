@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\bin\Debug\net9.0\00.Demo.exe
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\bin\Debug\net9.0\00.Demo.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\bin\Debug\net9.0\00.Demo.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\bin\Debug\net9.0\00.Demo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\bin\Debug\net9.0\00.Demo.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\00.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\00.Demo.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\00.Demo.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\00.Demo.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\00.Demo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\refint\00.Demo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\00.Demo.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\00.Demo.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\00.Demo\obj\Debug\net9.0\ref\00.Demo.dll
