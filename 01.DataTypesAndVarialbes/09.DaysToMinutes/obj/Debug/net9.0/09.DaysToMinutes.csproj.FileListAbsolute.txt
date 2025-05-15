@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\bin\Debug\net9.0\09.DaysToMinutes.exe
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\bin\Debug\net9.0\09.DaysToMinutes.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\bin\Debug\net9.0\09.DaysToMinutes.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\bin\Debug\net9.0\09.DaysToMinutes.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\bin\Debug\net9.0\09.DaysToMinutes.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\09.DaysToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\09.DaysToMinutes.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\09.DaysToMinutes.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\09.DaysToMinutes.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\09.DaysToMinutes.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\refint\09.DaysToMinutes.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\09.DaysToMinutes.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\09.DaysToMinutes.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\09.DaysToMinutes\obj\Debug\net9.0\ref\09.DaysToMinutes.dll
