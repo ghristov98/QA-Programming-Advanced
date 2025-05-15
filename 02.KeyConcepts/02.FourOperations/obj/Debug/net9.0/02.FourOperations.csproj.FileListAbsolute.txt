@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\bin\Debug\net9.0\02.FourOperations.exe
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\bin\Debug\net9.0\02.FourOperations.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\bin\Debug\net9.0\02.FourOperations.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\bin\Debug\net9.0\02.FourOperations.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\bin\Debug\net9.0\02.FourOperations.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\02.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\02.FourOperations.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\02.FourOperations.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\02.FourOperations.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\02.FourOperations.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\refint\02.FourOperations.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\02.FourOperations.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\02.FourOperations.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\02.FourOperations\obj\Debug\net9.0\ref\02.FourOperations.dll
