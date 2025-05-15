@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\bin\Debug\net9.0\08.TownInfo.exe
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\bin\Debug\net9.0\08.TownInfo.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\bin\Debug\net9.0\08.TownInfo.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\bin\Debug\net9.0\08.TownInfo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\bin\Debug\net9.0\08.TownInfo.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\08.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\08.TownInfo.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\08.TownInfo.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\08.TownInfo.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\08.TownInfo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\refint\08.TownInfo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\08.TownInfo.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\08.TownInfo.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\08.TownInfo\obj\Debug\net9.0\ref\08.TownInfo.dll
