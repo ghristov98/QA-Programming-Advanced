@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\bin\Debug\net9.0\03.NameAndExpression.exe
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\bin\Debug\net9.0\03.NameAndExpression.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\bin\Debug\net9.0\03.NameAndExpression.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\bin\Debug\net9.0\03.NameAndExpression.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\bin\Debug\net9.0\03.NameAndExpression.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\03.NameAndExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\03.NameAndExpression.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\03.NameAndExpression.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\03.NameAndExpression.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\03.NameAndExpression.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\refint\03.NameAndExpression.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\03.NameAndExpression.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\03.NameAndExpression.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\03.NameAndExpression\obj\Debug\net9.0\ref\03.NameAndExpression.dll
