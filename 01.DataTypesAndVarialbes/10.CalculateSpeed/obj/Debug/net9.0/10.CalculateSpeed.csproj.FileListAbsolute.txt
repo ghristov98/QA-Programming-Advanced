@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\bin\Debug\net9.0\10.CalculateSpeed.exe
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\bin\Debug\net9.0\10.CalculateSpeed.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\bin\Debug\net9.0\10.CalculateSpeed.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\bin\Debug\net9.0\10.CalculateSpeed.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\bin\Debug\net9.0\10.CalculateSpeed.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\10.CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\10.CalculateSpeed.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\10.CalculateSpeed.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\10.CalculateSpeed.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\10.CalculateSpeed.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\refint\10.CalculateSpeed.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\10.CalculateSpeed.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\10.CalculateSpeed.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\10.CalculateSpeed\obj\Debug\net9.0\ref\10.CalculateSpeed.dll
