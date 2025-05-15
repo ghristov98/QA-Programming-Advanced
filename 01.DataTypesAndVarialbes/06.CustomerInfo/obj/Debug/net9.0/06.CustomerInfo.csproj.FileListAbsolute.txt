@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\bin\Debug\net9.0\06.CustomerInfo.exe
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\bin\Debug\net9.0\06.CustomerInfo.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\bin\Debug\net9.0\06.CustomerInfo.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\bin\Debug\net9.0\06.CustomerInfo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\bin\Debug\net9.0\06.CustomerInfo.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\06.CustomerInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\06.CustomerInfo.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\06.CustomerInfo.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\06.CustomerInfo.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\06.CustomerInfo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\refint\06.CustomerInfo.dll
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\06.CustomerInfo.pdb
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\06.CustomerInfo.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\01.DataTypesAndVariables\06.CustomerInfo\obj\Debug\net9.0\ref\06.CustomerInfo.dll
