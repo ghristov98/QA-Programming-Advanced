@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\bin\Debug\net9.0\04.Tiles.exe
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\bin\Debug\net9.0\04.Tiles.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\bin\Debug\net9.0\04.Tiles.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\bin\Debug\net9.0\04.Tiles.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\bin\Debug\net9.0\04.Tiles.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\04.Tiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\04.Tiles.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\04.Tiles.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\04.Tiles.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\04.Tiles.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\refint\04.Tiles.dll
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\04.Tiles.pdb
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\04.Tiles.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\00.Demo\04.Tiles\obj\Debug\net9.0\ref\04.Tiles.dll
