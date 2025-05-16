@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\bin\Debug\net9.0\05.BasktetballEquipment.exe
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\bin\Debug\net9.0\05.BasktetballEquipment.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\bin\Debug\net9.0\05.BasktetballEquipment.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\bin\Debug\net9.0\05.BasktetballEquipment.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\bin\Debug\net9.0\05.BasktetballEquipment.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\05.BasktetballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\05.BasktetballEquipment.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\05.BasktetballEquipment.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\05.BasktetballEquipment.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\05.BasktetballEquipment.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\refint\05.BasktetballEquipment.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\05.BasktetballEquipment.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\05.BasktetballEquipment.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\05.BasktetballEquipment\obj\Debug\net9.0\ref\05.BasktetballEquipment.dll
