@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.exe
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\bin\Debug\net9.0\02.CenturiesToMinutes.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\refint\02.CenturiesToMinutes.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\02.CenturiesToMinutes.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\02.CenturiesToMinutes\obj\Debug\net9.0\ref\02.CenturiesToMinutes.dll
