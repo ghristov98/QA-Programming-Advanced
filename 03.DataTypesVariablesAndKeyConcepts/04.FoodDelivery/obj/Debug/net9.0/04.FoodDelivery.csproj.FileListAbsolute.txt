@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\bin\Debug\net9.0\04.FoodDelivery.exe
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\bin\Debug\net9.0\04.FoodDelivery.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\bin\Debug\net9.0\04.FoodDelivery.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\bin\Debug\net9.0\04.FoodDelivery.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\bin\Debug\net9.0\04.FoodDelivery.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\04.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\04.FoodDelivery.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\04.FoodDelivery.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\04.FoodDelivery.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\04.FoodDelivery.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\refint\04.FoodDelivery.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\04.FoodDelivery.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\04.FoodDelivery.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\04.FoodDelivery\obj\Debug\net9.0\ref\04.FoodDelivery.dll
