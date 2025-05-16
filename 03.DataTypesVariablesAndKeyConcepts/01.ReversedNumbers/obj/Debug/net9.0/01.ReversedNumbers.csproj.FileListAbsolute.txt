@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.exe
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\bin\Debug\net9.0\01.ReversedNumbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\refint\01.ReversedNumbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\01.ReversedNumbers.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\01.ReversedNumbers\obj\Debug\net9.0\ref\01.ReversedNumbers.dll
