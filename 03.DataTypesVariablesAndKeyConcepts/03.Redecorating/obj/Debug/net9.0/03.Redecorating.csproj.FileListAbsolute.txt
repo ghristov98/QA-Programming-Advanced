@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\bin\Debug\net9.0\03.Redecorating.exe
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\bin\Debug\net9.0\03.Redecorating.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\bin\Debug\net9.0\03.Redecorating.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\bin\Debug\net9.0\03.Redecorating.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\bin\Debug\net9.0\03.Redecorating.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\03.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\03.Redecorating.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\03.Redecorating.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\03.Redecorating.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\03.Redecorating.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\refint\03.Redecorating.dll
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\03.Redecorating.pdb
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\03.Redecorating.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\03.DataTypesVariablesAndKeyConcepts\03.Redecorating\obj\Debug\net9.0\ref\03.Redecorating.dll
