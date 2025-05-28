@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\02. Even-Or-Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\02. Even-Or-Odd.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\02. Even-Or-Odd.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\02. Even-Or-Odd.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\bin\Debug\net9.0\02. Even-Or-Odd.exe
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\bin\Debug\net9.0\02. Even-Or-Odd.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\bin\Debug\net9.0\02. Even-Or-Odd.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\bin\Debug\net9.0\02. Even-Or-Odd.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\bin\Debug\net9.0\02. Even-Or-Odd.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\02. Even-Or-Odd.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\refint\02. Even-Or-Odd.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\02. Even-Or-Odd.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\02. Even-Or-Odd.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\02. Even-Or-Odd\obj\Debug\net9.0\ref\02. Even-Or-Odd.dll
