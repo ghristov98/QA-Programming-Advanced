@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "03.Number-1…9-As-Word/1.0.0": {
+        "runtime": {
+          "03.Number-1…9-As-Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03.Number-1…9-As-Word/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\bin\Debug\net9.0\03.Number-1…9-As-Word.exe
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\bin\Debug\net9.0\03.Number-1…9-As-Word.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\bin\Debug\net9.0\03.Number-1…9-As-Word.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\bin\Debug\net9.0\03.Number-1…9-As-Word.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\bin\Debug\net9.0\03.Number-1…9-As-Word.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\03.Number-1…9-As-Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\03.Number-1…9-As-Word.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\03.Number-1…9-As-Word.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\03.Number-1…9-As-Word.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\03.Number-1…9-As-Word.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\refint\03.Number-1…9-As-Word.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\03.Number-1…9-As-Word.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\03.Number-1…9-As-Word.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\03.Number-1…9-As-Word\obj\Debug\net9.0\ref\03.Number-1…9-As-Word.dll
