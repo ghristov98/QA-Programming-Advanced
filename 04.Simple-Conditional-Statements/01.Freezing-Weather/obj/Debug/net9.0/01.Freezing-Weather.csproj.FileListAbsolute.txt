@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\bin\Debug\net9.0\01.Freezing-Weather.exe
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\bin\Debug\net9.0\01.Freezing-Weather.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\bin\Debug\net9.0\01.Freezing-Weather.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\bin\Debug\net9.0\01.Freezing-Weather.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\bin\Debug\net9.0\01.Freezing-Weather.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\01.Freezing-Weather.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\01.Freezing-Weather.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\01.Freezing-Weather.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\01.Freezing-Weather.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\01.Freezing-Weather.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\refint\01.Freezing-Weather.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\01.Freezing-Weather.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\01.Freezing-Weather.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\01.Freezing-Weather\obj\Debug\net9.0\ref\01.Freezing-Weather.dll
