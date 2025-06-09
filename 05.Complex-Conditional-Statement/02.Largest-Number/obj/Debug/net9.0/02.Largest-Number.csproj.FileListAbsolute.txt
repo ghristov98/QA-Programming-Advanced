@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\bin\Debug\net9.0\02.Largest-Number.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\bin\Debug\net9.0\02.Largest-Number.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\bin\Debug\net9.0\02.Largest-Number.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\bin\Debug\net9.0\02.Largest-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\bin\Debug\net9.0\02.Largest-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\02.Largest-Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\02.Largest-Number.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\02.Largest-Number.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\02.Largest-Number.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\02.Largest-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\refint\02.Largest-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\02.Largest-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\02.Largest-Number.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\02.Largest-Number\obj\Debug\net9.0\ref\02.Largest-Number.dll
