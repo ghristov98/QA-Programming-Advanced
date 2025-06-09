@@ -1,1 +1,0 @@
-# QA-Programming-Advanced
