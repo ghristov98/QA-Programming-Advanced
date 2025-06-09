@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\bin\Debug\net9.0\06.Day-Of-Week.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\bin\Debug\net9.0\06.Day-Of-Week.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\bin\Debug\net9.0\06.Day-Of-Week.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\bin\Debug\net9.0\06.Day-Of-Week.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\bin\Debug\net9.0\06.Day-Of-Week.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\06.Day-Of-Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\06.Day-Of-Week.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\06.Day-Of-Week.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\06.Day-Of-Week.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\06.Day-Of-Week.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\refint\06.Day-Of-Week.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\06.Day-Of-Week.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\06.Day-Of-Week.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\06.Days-Of-Week\obj\Debug\net9.0\ref\06.Day-Of-Week.dll
