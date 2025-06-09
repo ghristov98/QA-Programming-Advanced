@@ -1,4 +1,0 @@
-D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\10.Summer-Outfit\obj\Debug\net9.0\10.Summer-Outfit.GeneratedMSBuildEditorConfig.editorconfig
-D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\10.Summer-Outfit\obj\Debug\net9.0\10.Summer-Outfit.AssemblyInfoInputs.cache
-D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\10.Summer-Outfit\obj\Debug\net9.0\10.Summer-Outfit.AssemblyInfo.cs
-D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\10.Summer-Outfit\obj\Debug\net9.0\10.Summer-Outfit.csproj.CoreCompileInputs.cache
