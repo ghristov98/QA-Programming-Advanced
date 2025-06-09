@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\bin\Debug\net9.0\09.Cinema.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\bin\Debug\net9.0\09.Cinema.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\bin\Debug\net9.0\09.Cinema.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\bin\Debug\net9.0\09.Cinema.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\bin\Debug\net9.0\09.Cinema.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\09.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\09.Cinema.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\09.Cinema.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\09.Cinema.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\09.Cinema.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\refint\09.Cinema.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\09.Cinema.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\09.Cinema.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\09.Cinema\obj\Debug\net9.0\ref\09.Cinema.dll
