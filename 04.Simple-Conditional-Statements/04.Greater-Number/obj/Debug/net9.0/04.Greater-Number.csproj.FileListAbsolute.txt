@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\bin\Debug\net9.0\04.Greater-Number.exe
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\bin\Debug\net9.0\04.Greater-Number.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\bin\Debug\net9.0\04.Greater-Number.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\bin\Debug\net9.0\04.Greater-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\bin\Debug\net9.0\04.Greater-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\04.Greater-Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\04.Greater-Number.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\04.Greater-Number.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\04.Greater-Number.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\04.Greater-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\refint\04.Greater-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\04.Greater-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\04.Greater-Number.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\04.Greater-Number\obj\Debug\net9.0\ref\04.Greater-Number.dll
