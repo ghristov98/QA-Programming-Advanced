@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\bin\Debug\net9.0\04.Food-Or-Drink.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\bin\Debug\net9.0\04.Food-Or-Drink.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\bin\Debug\net9.0\04.Food-Or-Drink.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\bin\Debug\net9.0\04.Food-Or-Drink.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\bin\Debug\net9.0\04.Food-Or-Drink.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\04.Food-Or-Drink.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\04.Food-Or-Drink.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\04.Food-Or-Drink.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\04.Food-Or-Drink.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\04.Food-Or-Drink.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\refint\04.Food-Or-Drink.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\04.Food-Or-Drink.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\04.Food-Or-Drink.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\04.Food-Or-Drink\obj\Debug\net9.0\ref\04.Food-Or-Drink.dll
