@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\bin\Debug\net9.0\07.Speed-Info.exe
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\bin\Debug\net9.0\07.Speed-Info.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\bin\Debug\net9.0\07.Speed-Info.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\bin\Debug\net9.0\07.Speed-Info.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\bin\Debug\net9.0\07.Speed-Info.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\07.Speed-Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\07.Speed-Info.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\07.Speed-Info.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\07.Speed-Info.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\07.Speed-Info.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\refint\07.Speed-Info.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\07.Speed-Info.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\07.Speed-Info.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\07.Speed-Info\obj\Debug\net9.0\ref\07.Speed-Info.dll
