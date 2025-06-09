@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\07.Vowel-Or-Consonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\07.Vowel-Or-Consonant.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\07.Vowel-Or-Consonant.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\07.Vowel-Or-Consonant.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\bin\Debug\net9.0\07.Vowel-Or-Consonant.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\bin\Debug\net9.0\07.Vowel-Or-Consonant.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\bin\Debug\net9.0\07.Vowel-Or-Consonant.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\bin\Debug\net9.0\07.Vowel-Or-Consonant.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\bin\Debug\net9.0\07.Vowel-Or-Consonant.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\07.Vowel-Or-Consonant.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\refint\07.Vowel-Or-Consonant.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\07.Vowel-Or-Consonant.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\07.Vowel-Or-Consonant.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\07.Vowel-Or-Consonant\obj\Debug\net9.0\ref\07.Vowel-Or-Consonant.dll
