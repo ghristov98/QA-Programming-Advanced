@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\bin\Debug\net9.0\06.Boiling-Water.exe
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\bin\Debug\net9.0\06.Boiling-Water.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\bin\Debug\net9.0\06.Boiling-Water.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\bin\Debug\net9.0\06.Boiling-Water.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\bin\Debug\net9.0\06.Boiling-Water.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\06.Boiling-Water.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\06.Boiling-Water.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\06.Boiling-Water.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\06.Boiling-Water.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\06.Boiling-Water.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\refint\06.Boiling-Water.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\06.Boiling-Water.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\06.Boiling-Water.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\06.Boiling-Water\obj\Debug\net9.0\ref\06.Boiling-Water.dll
