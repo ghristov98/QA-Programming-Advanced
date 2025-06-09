@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\bin\Debug\net9.0\01.Marketplace.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\bin\Debug\net9.0\01.Marketplace.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\bin\Debug\net9.0\01.Marketplace.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\bin\Debug\net9.0\01.Marketplace.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\bin\Debug\net9.0\01.Marketplace.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\01.Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\01.Marketplace.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\01.Marketplace.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\01.Marketplace.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\01.Marketplace.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\refint\01.Marketplace.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\01.Marketplace.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\01.Marketplace.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\01.Marketplace\obj\Debug\net9.0\ref\01.Marketplace.dll
