@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\03.Bonus-Score.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\03.Bonus-Score.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\03.Bonus-Score.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\03.Bonus-Score.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\bin\Debug\net9.0\03.Bonus-Score.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\bin\Debug\net9.0\03.Bonus-Score.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\bin\Debug\net9.0\03.Bonus-Score.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\bin\Debug\net9.0\03.Bonus-Score.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\bin\Debug\net9.0\03.Bonus-Score.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\03.Bonus-Score.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\refint\03.Bonus-Score.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\03.Bonus-Score.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\03.Bonus-Score.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\03.Bonus-Score\obj\Debug\net9.0\ref\03.Bonus-Score.dll
