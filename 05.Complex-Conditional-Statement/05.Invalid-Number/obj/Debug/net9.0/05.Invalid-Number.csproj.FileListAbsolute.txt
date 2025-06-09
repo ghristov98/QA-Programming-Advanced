@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\bin\Debug\net9.0\05.Invalid-Number.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\bin\Debug\net9.0\05.Invalid-Number.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\bin\Debug\net9.0\05.Invalid-Number.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\bin\Debug\net9.0\05.Invalid-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\bin\Debug\net9.0\05.Invalid-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\05.Invalid-Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\05.Invalid-Number.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\05.Invalid-Number.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\05.Invalid-Number.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\05.Invalid-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\refint\05.Invalid-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\05.Invalid-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\05.Invalid-Number.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\05.Invalid-Number\obj\Debug\net9.0\ref\05.Invalid-Number.dll
