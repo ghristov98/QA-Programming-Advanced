@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\bin\Debug\net9.0\08.Sorted-Numbers.exe
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\bin\Debug\net9.0\08.Sorted-Numbers.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\bin\Debug\net9.0\08.Sorted-Numbers.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\bin\Debug\net9.0\08.Sorted-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\bin\Debug\net9.0\08.Sorted-Numbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\08.Sorted-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\08.Sorted-Numbers.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\08.Sorted-Numbers.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\08.Sorted-Numbers.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\08.Sorted-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\refint\08.Sorted-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\08.Sorted-Numbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\08.Sorted-Numbers.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\05.ComplexConditionalStatement\08.Sorted-Numbers\obj\Debug\net9.0\ref\08.Sorted-Numbers.dll
