@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\bin\Debug\net9.0\09.Valid-Triangle.exe
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\bin\Debug\net9.0\09.Valid-Triangle.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\bin\Debug\net9.0\09.Valid-Triangle.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\bin\Debug\net9.0\09.Valid-Triangle.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\bin\Debug\net9.0\09.Valid-Triangle.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\09.Valid-Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\09.Valid-Triangle.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\09.Valid-Triangle.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\09.Valid-Triangle.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\09.Valid-Triangle.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\refint\09.Valid-Triangle.dll
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\09.Valid-Triangle.pdb
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\09.Valid-Triangle.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\04.Simple-Conditional-Statements\09.Valid-Triangle\obj\Debug\net9.0\ref\09.Valid-Triangle.dll
