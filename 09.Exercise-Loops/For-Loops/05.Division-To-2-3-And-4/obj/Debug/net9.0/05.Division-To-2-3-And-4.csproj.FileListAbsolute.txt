@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\bin\Debug\net9.0\05.Division-To-2-3-And-4.exe
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\bin\Debug\net9.0\05.Division-To-2-3-And-4.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\bin\Debug\net9.0\05.Division-To-2-3-And-4.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\bin\Debug\net9.0\05.Division-To-2-3-And-4.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\bin\Debug\net9.0\05.Division-To-2-3-And-4.pdb
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\05.Division-To-2-3-And-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\05.Division-To-2-3-And-4.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\05.Division-To-2-3-And-4.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\05.Division-To-2-3-And-4.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\05.Division-To-2-3-And-4.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\refint\05.Division-To-2-3-And-4.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\05.Division-To-2-3-And-4.pdb
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\05.Division-To-2-3-And-4.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\05.Division-To-2-3-And-4\obj\Debug\net9.0\ref\05.Division-To-2-3-And-4.dll
