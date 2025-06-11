@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\bin\Debug\net9.0\05.Vacation-Expenses.exe
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\bin\Debug\net9.0\05.Vacation-Expenses.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\bin\Debug\net9.0\05.Vacation-Expenses.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\bin\Debug\net9.0\05.Vacation-Expenses.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\bin\Debug\net9.0\05.Vacation-Expenses.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\05.Vacation-Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\05.Vacation-Expenses.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\05.Vacation-Expenses.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\05.Vacation-Expenses.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\05.Vacation-Expenses.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\refint\05.Vacation-Expenses.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\05.Vacation-Expenses.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\05.Vacation-Expenses.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\05.Vacation-Expenses\obj\Debug\net9.0\ref\05.Vacation-Expenses.dll
