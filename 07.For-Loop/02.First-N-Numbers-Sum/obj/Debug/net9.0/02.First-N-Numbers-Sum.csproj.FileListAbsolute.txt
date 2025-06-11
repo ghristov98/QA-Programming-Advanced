@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\bin\Debug\net9.0\02.First-N-Numbers-Sum.exe
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\bin\Debug\net9.0\02.First-N-Numbers-Sum.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\bin\Debug\net9.0\02.First-N-Numbers-Sum.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\bin\Debug\net9.0\02.First-N-Numbers-Sum.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\bin\Debug\net9.0\02.First-N-Numbers-Sum.pdb
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\02.First-N-Numbers-Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\02.First-N-Numbers-Sum.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\02.First-N-Numbers-Sum.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\02.First-N-Numbers-Sum.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\02.First-N-Numbers-Sum.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\refint\02.First-N-Numbers-Sum.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\02.First-N-Numbers-Sum.pdb
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\02.First-N-Numbers-Sum.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\02.First-N-Numbers-Sum\obj\Debug\net9.0\ref\02.First-N-Numbers-Sum.dll
