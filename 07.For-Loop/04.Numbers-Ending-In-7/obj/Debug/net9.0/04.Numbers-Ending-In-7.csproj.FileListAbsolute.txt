@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\bin\Debug\net9.0\04.Numbers-Ending-In-7.exe
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\bin\Debug\net9.0\04.Numbers-Ending-In-7.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\bin\Debug\net9.0\04.Numbers-Ending-In-7.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\bin\Debug\net9.0\04.Numbers-Ending-In-7.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\bin\Debug\net9.0\04.Numbers-Ending-In-7.pdb
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\04.Numbers-Ending-In-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\04.Numbers-Ending-In-7.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\04.Numbers-Ending-In-7.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\04.Numbers-Ending-In-7.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\04.Numbers-Ending-In-7.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\refint\04.Numbers-Ending-In-7.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\04.Numbers-Ending-In-7.pdb
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\04.Numbers-Ending-In-7.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\04.Numbers-Ending-In-7\obj\Debug\net9.0\ref\04.Numbers-Ending-In-7.dll
