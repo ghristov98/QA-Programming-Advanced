@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\bin\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.exe
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\bin\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\bin\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\bin\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\bin\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.pdb
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\refint\05.Numbers-From-1-To-N-Over-3.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.pdb
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\05.Numbers-From-1-To-N-Over-3.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\05.Numbers-From-1-To-N-Over-3\obj\Debug\net9.0\ref\05.Numbers-From-1-To-N-Over-3.dll
