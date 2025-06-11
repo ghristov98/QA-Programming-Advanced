@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\bin\Debug\net9.0\02.ATM.exe
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\bin\Debug\net9.0\02.ATM.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\bin\Debug\net9.0\02.ATM.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\bin\Debug\net9.0\02.ATM.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\bin\Debug\net9.0\02.ATM.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\02.ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\02.ATM.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\02.ATM.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\02.ATM.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\02.ATM.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\refint\02.ATM.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\02.ATM.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\02.ATM.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\02.ATM\obj\Debug\net9.0\ref\02.ATM.dll
