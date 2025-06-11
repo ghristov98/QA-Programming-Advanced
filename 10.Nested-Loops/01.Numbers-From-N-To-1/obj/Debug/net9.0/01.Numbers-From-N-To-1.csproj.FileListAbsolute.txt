@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\bin\Debug\net9.0\01.Numbers-From-N-To-1.exe
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\bin\Debug\net9.0\01.Numbers-From-N-To-1.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\bin\Debug\net9.0\01.Numbers-From-N-To-1.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\bin\Debug\net9.0\01.Numbers-From-N-To-1.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\bin\Debug\net9.0\01.Numbers-From-N-To-1.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\01.Numbers-From-N-To-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\01.Numbers-From-N-To-1.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\01.Numbers-From-N-To-1.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\01.Numbers-From-N-To-1.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\01.Numbers-From-N-To-1.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\refint\01.Numbers-From-N-To-1.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\01.Numbers-From-N-To-1.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\01.Numbers-From-N-To-1.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\01.Numbers-From-N-To-1\obj\Debug\net9.0\ref\01.Numbers-From-N-To-1.dll
