@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\02.Grades.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\02.Grades.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\02.Grades.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\bin\Debug\net9.0\02.Grades.exe
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\bin\Debug\net9.0\02.Grades.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\bin\Debug\net9.0\02.Grades.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\bin\Debug\net9.0\02.Grades.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\bin\Debug\net9.0\02.Grades.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\02.Grades.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\refint\02.Grades.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\02.Grades.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\02.Grades.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\02.Grades\obj\Debug\net9.0\ref\02.Grades.dll
