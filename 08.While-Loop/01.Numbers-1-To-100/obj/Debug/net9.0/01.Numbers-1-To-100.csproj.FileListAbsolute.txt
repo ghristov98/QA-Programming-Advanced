@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\bin\Debug\net9.0\01.Numbers-1-To-100.exe
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\bin\Debug\net9.0\01.Numbers-1-To-100.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\bin\Debug\net9.0\01.Numbers-1-To-100.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\bin\Debug\net9.0\01.Numbers-1-To-100.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\bin\Debug\net9.0\01.Numbers-1-To-100.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\01.Numbers-1-To-100.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\01.Numbers-1-To-100.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\01.Numbers-1-To-100.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\01.Numbers-1-To-100.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\01.Numbers-1-To-100.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\refint\01.Numbers-1-To-100.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\01.Numbers-1-To-100.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\01.Numbers-1-To-100.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\01.Numbers-1-To-100\obj\Debug\net9.0\ref\01.Numbers-1-To-100.dll
