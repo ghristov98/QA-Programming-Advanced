@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\bin\Debug\net9.0\03.Odd-Number.exe
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\bin\Debug\net9.0\03.Odd-Number.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\bin\Debug\net9.0\03.Odd-Number.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\bin\Debug\net9.0\03.Odd-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\bin\Debug\net9.0\03.Odd-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\03.Odd-Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\03.Odd-Number.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\03.Odd-Number.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\03.Odd-Number.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\03.Odd-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\refint\03.Odd-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\03.Odd-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\03.Odd-Number.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\03.Odd-Number\obj\Debug\net9.0\ref\03.Odd-Number.dll
