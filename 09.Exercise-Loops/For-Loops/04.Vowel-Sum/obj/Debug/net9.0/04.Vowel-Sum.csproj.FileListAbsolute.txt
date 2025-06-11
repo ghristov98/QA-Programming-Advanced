@@ -1,0 +1,4 @@
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\04.Vowel-Sum\obj\Debug\net9.0\04.Vowel-Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\04.Vowel-Sum\obj\Debug\net9.0\04.Vowel-Sum.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\04.Vowel-Sum\obj\Debug\net9.0\04.Vowel-Sum.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\04.Vowel-Sum\obj\Debug\net9.0\04.Vowel-Sum.csproj.CoreCompileInputs.cache
