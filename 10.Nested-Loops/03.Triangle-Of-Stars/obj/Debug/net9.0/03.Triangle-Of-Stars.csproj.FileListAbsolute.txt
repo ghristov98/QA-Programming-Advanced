@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\bin\Debug\net9.0\03.Triangle-Of-Stars.exe
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\bin\Debug\net9.0\03.Triangle-Of-Stars.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\bin\Debug\net9.0\03.Triangle-Of-Stars.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\bin\Debug\net9.0\03.Triangle-Of-Stars.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\bin\Debug\net9.0\03.Triangle-Of-Stars.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\03.Triangle-Of-Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\03.Triangle-Of-Stars.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\03.Triangle-Of-Stars.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\03.Triangle-Of-Stars.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\03.Triangle-Of-Stars.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\refint\03.Triangle-Of-Stars.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\03.Triangle-Of-Stars.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\03.Triangle-Of-Stars.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\03.Triangle-Of-Stars\obj\Debug\net9.0\ref\03.Triangle-Of-Stars.dll
