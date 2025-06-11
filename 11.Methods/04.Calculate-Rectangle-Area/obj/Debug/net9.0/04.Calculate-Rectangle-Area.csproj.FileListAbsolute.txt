@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\bin\Debug\net9.0\04.Calculate-Rectangle-Area.exe
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\bin\Debug\net9.0\04.Calculate-Rectangle-Area.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\bin\Debug\net9.0\04.Calculate-Rectangle-Area.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\bin\Debug\net9.0\04.Calculate-Rectangle-Area.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\bin\Debug\net9.0\04.Calculate-Rectangle-Area.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\04.Calculate-Rectangle-Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\04.Calculate-Rectangle-Area.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\04.Calculate-Rectangle-Area.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\04.Calculate-Rectangle-Area.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\04.Calculate-Rectangle-Area.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\refint\04.Calculate-Rectangle-Area.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\04.Calculate-Rectangle-Area.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\04.Calculate-Rectangle-Area.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\04.Calculate-Rectangle-Area\obj\Debug\net9.0\ref\04.Calculate-Rectangle-Area.dll
