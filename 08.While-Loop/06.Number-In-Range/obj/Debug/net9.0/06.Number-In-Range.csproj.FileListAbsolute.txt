@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\bin\Debug\net9.0\06.Number-In-Range.exe
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\bin\Debug\net9.0\06.Number-In-Range.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\bin\Debug\net9.0\06.Number-In-Range.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\bin\Debug\net9.0\06.Number-In-Range.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\bin\Debug\net9.0\06.Number-In-Range.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\06.Number-In-Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\06.Number-In-Range.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\06.Number-In-Range.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\06.Number-In-Range.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\06.Number-In-Range.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\refint\06.Number-In-Range.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\06.Number-In-Range.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\06.Number-In-Range.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\06.Number-In-Range\obj\Debug\net9.0\ref\06.Number-In-Range.dll
