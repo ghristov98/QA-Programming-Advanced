@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\bin\Debug\net9.0\01.Power-Of-Number.exe
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\bin\Debug\net9.0\01.Power-Of-Number.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\bin\Debug\net9.0\01.Power-Of-Number.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\bin\Debug\net9.0\01.Power-Of-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\bin\Debug\net9.0\01.Power-Of-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\01.Power-Of-Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\01.Power-Of-Number.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\01.Power-Of-Number.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\01.Power-Of-Number.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\01.Power-Of-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\refint\01.Power-Of-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\01.Power-Of-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\01.Power-Of-Number.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\01.Power-Of-Number\obj\Debug\net9.0\ref\01.Power-Of-Number.dll
