@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\04.Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\04.Building.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\04.Building.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\04.Building.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\bin\Debug\net9.0\04.Building.exe
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\bin\Debug\net9.0\04.Building.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\bin\Debug\net9.0\04.Building.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\bin\Debug\net9.0\04.Building.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\bin\Debug\net9.0\04.Building.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\04.Building.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\refint\04.Building.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\04.Building.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\04.Building.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\04.Building\obj\Debug\net9.0\ref\04.Building.dll
