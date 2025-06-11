@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\bin\Debug\net9.0\07.Number-Processor.exe
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\bin\Debug\net9.0\07.Number-Processor.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\bin\Debug\net9.0\07.Number-Processor.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\bin\Debug\net9.0\07.Number-Processor.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\bin\Debug\net9.0\07.Number-Processor.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\07.Number-Processor.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\07.Number-Processor.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\07.Number-Processor.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\07.Number-Processor.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\07.Number-Processor.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\refint\07.Number-Processor.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\07.Number-Processor.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\07.Number-Processor.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\07.Number-Processor\obj\Debug\net9.0\ref\07.Number-Processor.dll
