@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\bin\Debug\net9.0\01.Number-Type.exe
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\bin\Debug\net9.0\01.Number-Type.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\bin\Debug\net9.0\01.Number-Type.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\bin\Debug\net9.0\01.Number-Type.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\bin\Debug\net9.0\01.Number-Type.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\01.Number-Type.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\01.Number-Type.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\01.Number-Type.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\01.Number-Type.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\01.Number-Type.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\refint\01.Number-Type.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\01.Number-Type.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\01.Number-Type.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\01.Number-Type\obj\Debug\net9.0\ref\01.Number-Type.dll
