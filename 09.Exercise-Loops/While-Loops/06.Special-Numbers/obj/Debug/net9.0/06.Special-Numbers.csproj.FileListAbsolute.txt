@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\bin\Debug\net9.0\06.Special-Numbers.exe
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\bin\Debug\net9.0\06.Special-Numbers.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\bin\Debug\net9.0\06.Special-Numbers.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\bin\Debug\net9.0\06.Special-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\bin\Debug\net9.0\06.Special-Numbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\06.Special-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\06.Special-Numbers.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\06.Special-Numbers.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\06.Special-Numbers.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\06.Special-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\refint\06.Special-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\06.Special-Numbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\06.Special-Numbers.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\02.WhileLoops\06.Special-Numbers\obj\Debug\net9.0\ref\06.Special-Numbers.dll
