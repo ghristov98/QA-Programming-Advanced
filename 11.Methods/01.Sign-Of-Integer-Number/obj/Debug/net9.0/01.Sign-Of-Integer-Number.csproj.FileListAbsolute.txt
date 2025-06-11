@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\bin\Debug\net9.0\01.Sign-Of-Integer-Number.exe
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\bin\Debug\net9.0\01.Sign-Of-Integer-Number.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\bin\Debug\net9.0\01.Sign-Of-Integer-Number.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\bin\Debug\net9.0\01.Sign-Of-Integer-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\bin\Debug\net9.0\01.Sign-Of-Integer-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\01.Sign-Of-Integer-Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\01.Sign-Of-Integer-Number.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\01.Sign-Of-Integer-Number.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\01.Sign-Of-Integer-Number.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\01.Sign-Of-Integer-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\refint\01.Sign-Of-Integer-Number.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\01.Sign-Of-Integer-Number.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\01.Sign-Of-Integer-Number.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\01.Sign-Of-Integer-Number\obj\Debug\net9.0\ref\01.Sign-Of-Integer-Number.dll
