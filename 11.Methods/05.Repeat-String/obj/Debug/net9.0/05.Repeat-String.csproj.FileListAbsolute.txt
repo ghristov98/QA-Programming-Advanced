@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\bin\Debug\net9.0\05.Repeat-String.exe
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\bin\Debug\net9.0\05.Repeat-String.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\bin\Debug\net9.0\05.Repeat-String.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\bin\Debug\net9.0\05.Repeat-String.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\bin\Debug\net9.0\05.Repeat-String.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\05.Repeat-String.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\05.Repeat-String.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\05.Repeat-String.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\05.Repeat-String.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\05.Repeat-String.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\refint\05.Repeat-String.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\05.Repeat-String.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\05.Repeat-String.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\05.Repeat-String\obj\Debug\net9.0\ref\05.Repeat-String.dll
