@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\bin\Debug\net9.0\05.Number-Pyramid.exe
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\bin\Debug\net9.0\05.Number-Pyramid.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\bin\Debug\net9.0\05.Number-Pyramid.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\bin\Debug\net9.0\05.Number-Pyramid.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\bin\Debug\net9.0\05.Number-Pyramid.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\05.Number-Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\05.Number-Pyramid.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\05.Number-Pyramid.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\05.Number-Pyramid.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\05.Number-Pyramid.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\refint\05.Number-Pyramid.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\05.Number-Pyramid.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\05.Number-Pyramid.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\05.Number-Pyramid\obj\Debug\net9.0\ref\05.Number-Pyramid.dll
