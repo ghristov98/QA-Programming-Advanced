@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\bin\Debug\net9.0\02.Multiplication-Table.exe
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\bin\Debug\net9.0\02.Multiplication-Table.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\bin\Debug\net9.0\02.Multiplication-Table.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\bin\Debug\net9.0\02.Multiplication-Table.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\bin\Debug\net9.0\02.Multiplication-Table.pdb
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\02.Multiplication-Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\02.Multiplication-Table.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\02.Multiplication-Table.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\02.Multiplication-Table.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\02.Multiplication-Table.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\refint\02.Multiplication-Table.dll
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\02.Multiplication-Table.pdb
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\02.Multiplication-Table.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\11.Loops\01.For-Loops\02.Multiplication-Table\obj\Debug\net9.0\ref\02.Multiplication-Table.dll
