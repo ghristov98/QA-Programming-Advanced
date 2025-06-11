@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\bin\Debug\net9.0\03.Printing-Traingles.exe
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\bin\Debug\net9.0\03.Printing-Traingles.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\bin\Debug\net9.0\03.Printing-Traingles.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\bin\Debug\net9.0\03.Printing-Traingles.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\bin\Debug\net9.0\03.Printing-Traingles.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\03.Printing-Traingles.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\03.Printing-Traingles.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\03.Printing-Traingles.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\03.Printing-Traingles.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\03.Printing-Traingles.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\refint\03.Printing-Traingles.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\03.Printing-Traingles.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\03.Printing-Traingles.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\03.Printing-Traingles\obj\Debug\net9.0\ref\03.Printing-Traingles.dll
