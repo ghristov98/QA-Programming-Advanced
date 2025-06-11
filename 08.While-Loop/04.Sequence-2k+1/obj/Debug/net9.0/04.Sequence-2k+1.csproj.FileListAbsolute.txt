@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\bin\Debug\net9.0\04.Sequence-2k+1.exe
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\bin\Debug\net9.0\04.Sequence-2k+1.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\bin\Debug\net9.0\04.Sequence-2k+1.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\bin\Debug\net9.0\04.Sequence-2k+1.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\bin\Debug\net9.0\04.Sequence-2k+1.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\04.Sequence-2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\04.Sequence-2k+1.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\04.Sequence-2k+1.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\04.Sequence-2k+1.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\04.Sequence-2k+1.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\refint\04.Sequence-2k+1.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\04.Sequence-2k+1.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\04.Sequence-2k+1.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\04.Sequence-2k+1\obj\Debug\net9.0\ref\04.Sequence-2k+1.dll
