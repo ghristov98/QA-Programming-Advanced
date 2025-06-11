@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\bin\Debug\net9.0\06.Math-Power.exe
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\bin\Debug\net9.0\06.Math-Power.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\bin\Debug\net9.0\06.Math-Power.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\bin\Debug\net9.0\06.Math-Power.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\bin\Debug\net9.0\06.Math-Power.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\06.Math-Power.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\06.Math-Power.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\06.Math-Power.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\06.Math-Power.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\06.Math-Power.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\refint\06.Math-Power.dll
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\06.Math-Power.pdb
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\06.Math-Power.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\13.Methods\06.Math-Power\obj\Debug\net9.0\ref\06.Math-Power.dll
