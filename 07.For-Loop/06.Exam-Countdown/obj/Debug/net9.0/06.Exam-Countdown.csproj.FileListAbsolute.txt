@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\bin\Debug\net9.0\06.Exam-Countdown.exe
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\bin\Debug\net9.0\06.Exam-Countdown.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\bin\Debug\net9.0\06.Exam-Countdown.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\bin\Debug\net9.0\06.Exam-Countdown.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\bin\Debug\net9.0\06.Exam-Countdown.pdb
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\06.Exam-Countdown.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\06.Exam-Countdown.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\06.Exam-Countdown.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\06.Exam-Countdown.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\06.Exam-Countdown.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\refint\06.Exam-Countdown.dll
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\06.Exam-Countdown.pdb
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\06.Exam-Countdown.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\07.ForLoop\06.Exam-Countdown\obj\Debug\net9.0\ref\06.Exam-Countdown.dll
