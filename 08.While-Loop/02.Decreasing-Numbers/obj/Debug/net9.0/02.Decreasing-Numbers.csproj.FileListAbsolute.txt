@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\bin\Debug\net9.0\02.Decreasing-Numbers.exe
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\bin\Debug\net9.0\02.Decreasing-Numbers.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\bin\Debug\net9.0\02.Decreasing-Numbers.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\bin\Debug\net9.0\02.Decreasing-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\bin\Debug\net9.0\02.Decreasing-Numbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\02.Decreasing-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\02.Decreasing-Numbers.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\02.Decreasing-Numbers.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\02.Decreasing-Numbers.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\02.Decreasing-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\refint\02.Decreasing-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\02.Decreasing-Numbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\02.Decreasing-Numbers.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\10.WhileLoops\02.Decreasing-Numbers\obj\Debug\net9.0\ref\02.Decreasing-Numbers.dll
