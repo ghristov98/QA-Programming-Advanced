@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\bin\Debug\net9.0\03.Biggest-Of-Five-Numbers.exe
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\bin\Debug\net9.0\03.Biggest-Of-Five-Numbers.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\bin\Debug\net9.0\03.Biggest-Of-Five-Numbers.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\bin\Debug\net9.0\03.Biggest-Of-Five-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\bin\Debug\net9.0\03.Biggest-Of-Five-Numbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\03.Biggest-Of-Five-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\03.Biggest-Of-Five-Numbers.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\03.Biggest-Of-Five-Numbers.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\03.Biggest-Of-Five-Numbers.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\03.Biggest-Of-Five-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\refint\03.Biggest-Of-Five-Numbers.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\03.Biggest-Of-Five-Numbers.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\03.Biggest-Of-Five-Numbers.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\03.Biggest-Of-Five-Numbers\obj\Debug\net9.0\ref\03.Biggest-Of-Five-Numbers.dll
