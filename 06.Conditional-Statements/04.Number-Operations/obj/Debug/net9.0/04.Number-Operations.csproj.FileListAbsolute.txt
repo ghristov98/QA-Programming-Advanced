@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\04.Number-Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\04.Number-Operations.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\04.Number-Operations.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\04.Number-Operations.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\bin\Debug\net9.0\04.Number-Operations.exe
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\bin\Debug\net9.0\04.Number-Operations.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\bin\Debug\net9.0\04.Number-Operations.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\bin\Debug\net9.0\04.Number-Operations.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\bin\Debug\net9.0\04.Number-Operations.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\04.Number-Operations.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\refint\04.Number-Operations.dll
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\04.Number-Operations.pdb
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\04.Number-Operations.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\06.ConditionalStatements\04.Number-Operations\obj\Debug\net9.0\ref\04.Number-Operations.dll
