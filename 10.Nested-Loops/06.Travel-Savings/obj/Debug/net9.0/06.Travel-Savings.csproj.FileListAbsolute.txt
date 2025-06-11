@@ -1,0 +1,14 @@
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\bin\Debug\net9.0\06.Travel-Savings.exe
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\bin\Debug\net9.0\06.Travel-Savings.deps.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\bin\Debug\net9.0\06.Travel-Savings.runtimeconfig.json
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\bin\Debug\net9.0\06.Travel-Savings.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\bin\Debug\net9.0\06.Travel-Savings.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\06.Travel-Savings.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\06.Travel-Savings.AssemblyInfoInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\06.Travel-Savings.AssemblyInfo.cs
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\06.Travel-Savings.csproj.CoreCompileInputs.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\06.Travel-Savings.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\refint\06.Travel-Savings.dll
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\06.Travel-Savings.pdb
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\06.Travel-Savings.genruntimeconfig.cache
+D:\QA\GitHub\QA-Programming-Advanced\12.NestedLoops\06.Travel-Savings\obj\Debug\net9.0\ref\06.Travel-Savings.dll
